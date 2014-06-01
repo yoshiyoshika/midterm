@@ -1,0 +1,18 @@
+nav{
+    margin: 0 60px;
+}
+
+
+nav ul{
+    padding: 0;
+    margin-top: 1em;
+    list-style: none;
+}
+nav ul > li{
+    font-size: 90%;
+    display: inline-block;
+}
+
+nav ul > li > a{
+    color: #333399;
+}
