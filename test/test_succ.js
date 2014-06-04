@@ -1,4 +1,4 @@
-describe("succ: 次の整数を返す関数 succ を次の条件を満たすように定義せよ", function(){
+describe("succ: 引数に指定した整数の、次の整数を返す関数 succ を定義せよ", function(){
 
     context("引数が整数の場合", function(){
 
